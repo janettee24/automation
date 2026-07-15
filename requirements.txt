@@ -3,3 +3,4 @@ requests
 beautifulsoup4
 pandas
 lxml
+Google-Ads-Transparency-Scraper>=1.6.0
